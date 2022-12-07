@@ -13,12 +13,6 @@ Basic, Full-Stack Development, Microsoft Suite,
 Microsoft Devops, Google Suite, Git, GitHub,
 Ubuntu, Windows 10/11, OpenVINO, Intel Edge
 AI Certified.
-### Certifications and Acheivements
-Bachelors in Computer Science at NDSU
-
-Bachelors in Mathematics at NDSU
-
-Intel Edge AI Certified: https://www.credly.com/badges/ced2fcac-9574-43ab-875a-e4192cfdea66/public_url
 
 ## Mathematics
 Published a paper titled “Applying Fractal
@@ -29,6 +23,14 @@ techniques for economic systems using scripted
 methodologies for ease of applicability.
 
 **[link](https://github.com/vmc-7645/hurst-exponentcalculator-from-csv)**
+
+## Certifications and Acheivements
+Bachelors in Computer Science at NDSU
+
+Bachelors in Mathematics at NDSU
+
+Intel Edge AI Certified: https://www.credly.com/badges/ced2fcac-9574-43ab-875a-e4192cfdea66/public_url
+
 
 <!-- ## Management and Logistics
 ## Communication -->
