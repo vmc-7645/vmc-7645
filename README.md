@@ -20,9 +20,9 @@ Bachelors in Mathematics at NDSU
 
 OpenVINO™ Toolkit Online Training
 
-Accelerating Model Performance Using OpenVINO Integration with TensorFlow
+<!-- Accelerating Model Performance Using OpenVINO Integration with TensorFlow
 
-BisonCatholic Leadership Retreat
+BisonCatholic Leadership Retreat -->
 
 <!-- ## Management and Logistics
 ## Communication -->
