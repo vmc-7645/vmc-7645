@@ -1,5 +1,5 @@
 # Vincent Casey
-## Computer Science
+<!-- ## Computer Science
 ### Projects
 Worked on several projects that involved the implementation and training of artificial intelligence models, personally developed several full stack web applications, worked with Microsoft for my Senior Capstone project at NDSU.
 ### Languages, Methods, and Software
@@ -11,14 +11,12 @@ analysis, and Hurst exponents as modeling techniques for economic systems using 
 
 **[link](https://github.com/vmc-7645/hurst-exponent-calculator-from-csv)**
 
-## Certifications, Seminars, and Acheivements
-Bachelors in Computer Science at NDSU
-
-Bachelors in Mathematics at NDSU
-
+## Certifications, Seminars, and Acheivements -->
+Bachelors in Computer Science and Mathematics at NDSU
+<!-- 
 [Intel Edge AI Certified](https://www.credly.com/badges/ced2fcac-9574-43ab-875a-e4192cfdea66/public_url)
 
-OpenVINO™ Toolkit Online Training
+OpenVINO™ Toolkit Online Training -->
 
 <!-- Accelerating Model Performance Using OpenVINO Integration with TensorFlow
 
