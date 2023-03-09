@@ -13,6 +13,9 @@ analysis, and Hurst exponents as modeling techniques for economic systems using 
 
 ## Certifications, Seminars, and Acheivements -->
 Bachelors in Computer Science and Mathematics at NDSU
+
+[vincentmcasey.com](https://vincentmcasey.com)
+
 <!-- 
 [Intel Edge AI Certified](https://www.credly.com/badges/ced2fcac-9574-43ab-875a-e4192cfdea66/public_url)
 
