@@ -1,8 +1,8 @@
 # Vincent Casey
 
-Bachelors in Computer Science at NDSU
+BS in Computer Science from NDSU
 
-Bachelors in Mathematics at NDSU
+BS in Mathematics from NDSU
 
 [vincentmcasey.com](https://vincentmcasey.com)
 
